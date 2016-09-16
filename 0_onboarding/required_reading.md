@@ -6,6 +6,13 @@ The WDI class has required reading for homework on occasion. These are from free
 * [Learn to Code HTML & CSS](http://learn.shayhowe.com/) by Shaye Howe
 * [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/) by Zed Shaw
 
+## Highly Suggested Reading
+
+We highly recommend reading Sandi Metz's **Practical Object-Oriented Design in Ruby** when we begin covering Ruby in class. This is a paid book but it is (in our opinion) a vital read for this cohort.
+
+> *Note!* [GA Students receive 50% off ebooks and 40% off print books from O'Reilly](http://shop.oreilly.com/category/deals/general-assembly.do?cmp=ex-na-books-videos-lp-promo_general_assembly).
+
+
 ## Optional Reads
 
 These are free books that are not required reading but are nice guides to have to follow!

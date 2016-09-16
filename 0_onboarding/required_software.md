@@ -14,6 +14,13 @@ If you run into any problems installing this software, please alert an instructo
 * **Why**: WDI requires that we
 * **Instructions**: On newer versions of OS X, search the Mac App Store for **XCode** and download/install it (it is free). On older versions that do not have the Mac App Store, you will need to create a *free* Apple account and download it at https://developer.apple.com/xcode/downloads/. Once you install XCode, please open it and accept the EULA (feel free to close the app once you complete this).
 
+
+#### WebStorm
+
+* **What**: A full IDE for Javascript.
+* **Why**: It is a professional editor for Javascript that will contain many tools that are helpful for newbies.
+* **Instructions**: You will need to apply for a 1-year student license at https://www.jetbrains.com/student/. When applying, select **Official Document** and provide a PDF copy of your enrollment agreement from admissions. Licenses are usually emailed out within a few days. Until then, you may download the trial version and apply your license later at https://www.jetbrains.com/webstorm/.
+
 #### Atom Text Editor
 
 * **What**: A modern day, open source text editor.
