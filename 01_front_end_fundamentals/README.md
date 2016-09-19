@@ -10,6 +10,7 @@ You will also be assigned labs to complete and practice your newly learned skill
 
 - Read [Javascript for Cats](http://jsforcats.com/)
 - Complete [Practice: Command Line](01_front_end_fundamentals/d01_workhop_cli.md)
+- Finish install XCode.
 
 #### Tuesday
 
