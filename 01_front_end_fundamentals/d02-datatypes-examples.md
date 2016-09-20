@@ -1,5 +1,5 @@
 
-## 1.2 Lesson Examples: Data Types
+## 1.2 Data Types
 
 #### typeof()
 
