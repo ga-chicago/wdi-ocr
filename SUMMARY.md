@@ -26,6 +26,7 @@
     * [String Concatenation](01_front_end_fundamentals/d02-stringconcat.md)
     * [Syntax Primer](01_front_end_fundamentals/d02-syntax.md)
     * [Examples](01_front_end_fundamentals/d02_img.md)
+    * [Command Line Lab](01_front_end_fundamentals/cmdLineLab.md)
 * [2. DOM, Forms, & Ajax]()
 * [3. Responsive Design]()
 * [4. Creating a Game]()
