@@ -17,6 +17,7 @@
     * [Bash Profiles](01_front_end_fundamentals/d01_bash_profile.md)
     * [Practice: Command Line](01_front_end_fundamentals/d01_workhop_cli.md)
   * [2. Intro to Javascript](01_front_end_fundamentals/d02.md)
+    * [Command Line Review](01_front_end_fundamentals/d02_cli_review.md)
     * [Variables](01_front_end_fundamentals/d02-variables.md)
     * [Data Types](01_front_end_fundamentals/d02-datatypes-examples.md)
     * [Logic & Control Flow](01_front_end_fundamentals/d02-controlflow-examples.md)
