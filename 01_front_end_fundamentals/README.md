@@ -15,6 +15,7 @@ You will also be assigned labs to complete and practice your newly learned skill
 #### Tuesday
 
 - Read [A Re-introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- Complete any remaining challenges of the day.
 
 #### Wednesday
 
