@@ -1,7 +1,9 @@
 ## Introducing Modern HTML and CSS for Designers
 by James Traver (published August, 2013)
 
-``<table></table>`'s have been replaced by `<div></div>`'s for body layout. This allows for more flexibility in modern browser
+*Original target audience was for developers who had been stuck developing for IE8 or older until the release of IE9 and evergreen browsers.*
+
+`<table></table>`'s have been replaced by `<div></div>`'s for body layout. This allows for more flexibility in modern browser
 rendering engines (and uses less memory to compute positioning). Tables are now used for data output
 (such as charts, grids, raw data, etc).
 
