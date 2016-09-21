@@ -41,7 +41,4 @@
 
 That's all! We will practice this workflow during class repeatedly to get you comfortable with it.
 
-#### Office Hours
 
-- Once a week, each instructors will be available from 5pm until 6pm after class.
-- Students will be informed of these office hours and where they are located depending on the week.
