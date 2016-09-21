@@ -36,7 +36,6 @@
     * [Style Guides](01_front_end_fundamentals/d03_style_guide.md)
     * [Colour Theory](01_front_end_fundamentals/d03_colour_theory.md)
     * [Web Fonts](01_front_end_fundamentals/d03_webfonts.md)
-    * [Homework: Portfolio]()
 * [2. DOM, Forms, & Ajax]()
 * [3. Responsive Design]()
 * [4. Creating a Game]()
