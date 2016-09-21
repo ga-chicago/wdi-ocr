@@ -19,11 +19,12 @@ You will also be assigned labs to complete and practice your newly learned skill
 
 #### Wednesday
 
-- Read [Intro and Chapters 1-3 in Eloquent Javascript](http://eloquentjavascript.net/)
+- Read [Chapters 1-5 in Learn HTML & CSS](http://learn.shayhowe.com/)
+- Portfolio Assignment on Github
 
 #### Thursday
 
-- Read [Chapters 1-5 in Learn HTML & CSS](http://learn.shayhowe.com/)
+- Read [Intro and Chapters 1-3 in Eloquent Javascript](http://eloquentjavascript.net/)
 
 #### Friday
 

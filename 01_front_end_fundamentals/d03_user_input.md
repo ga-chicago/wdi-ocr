@@ -8,7 +8,9 @@ It is time for you to explore how to accept user input on your own. Web browsers
 
 #### Challenge
 
-1. In classical programming languages, methods that are not **void** return methods.
+> *Methods* are the computer science term for an "action" or "verb" that an object can perform.
+
+1. In classical programming languages, methods that are not **void** return values. Methods that are in fact void will return `null`.
 2. Which of these three built-in browser methods are **void**?
 3. Which are not?
 4. What is the data type that these return?
@@ -27,4 +29,4 @@ Let's work on a few problems to get your developer chops up to par! Use your use
 
 * Create a conditional or control flow statement (either switch or if) that detects if a student is of the appropriate age to purchase alcohol. **Alert** them with either a success or failure message.
 
-* You're at a large convention and developers everywhere need to be organized into a group. Create three arrays: one for Javascript developers, one for Ruby developers, and one for Python developers. Use a conditional or control flow statement to sort through any array. Sort any developer with the name "Bill" to the Javascript array. Sort any developer with the name "James" into the Python array. Sort any developer with the name "Jim" into the Ruby array.
+* You're at a large convention and are running a sign-up booth for a product. Developers that visit your booth need to be able to signup for your newsletter. Create an empty array of developers and another array for their email addresses. Research the `String.split()` and `String.join()` methods for splitting strings apart. You'll need to split the first and last names. Using `window.prompt()`, ask for their name and email address. Use `Array.push` to add to these arrays. Add each name to your developers array using the `lastname, firstname` format. `console.log()` both the name and email of the user. This will require you to research string manipulation and changing. You may find some random names (check out https://randomuser.me/) or populate data from your classmates. 
