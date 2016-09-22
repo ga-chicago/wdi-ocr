@@ -20,7 +20,7 @@ You will also be assigned labs to complete and practice your newly learned skill
 #### Wednesday
 
 - Read [Chapters 1-5 in Learn HTML & CSS](http://learn.shayhowe.com/)
-- Portfolio Assignment on Github
+- Fork & clone the [Portfolio Assignment on Github](https://github.com/ga-chicago/portfolio-wk1)
 
 #### Thursday
 
