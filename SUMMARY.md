@@ -27,6 +27,7 @@
     * [Syntax Primer](01_front_end_fundamentals/d02-syntax.md)
     * [Examples](01_front_end_fundamentals/d02_img.md)
     * [Command Line Lab](01_front_end_fundamentals/cmdLineLab.md)
+    * [Practice loop and functions](01_front_end_fundamentals/practiceLoopAndFunction.md)
   * [3. Beautiful HTML & CSS](01_front_end_fundamentals/d03.md)
     * [User Input](01_front_end_fundamentals/d03_user_input.md)
     * [HTML & CSS](01_front_end_fundamentals/d03-htmlcss.md)
