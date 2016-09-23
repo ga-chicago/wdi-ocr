@@ -1,6 +1,5 @@
-# Advanced Arrays and Methods
 
-## Learning Objectives
+# Advanced Arrays and Methods
 
 - Define a method
 - Understand what an array is and why they're useful
@@ -100,5 +99,3 @@ myNumbers.map(function(number) {
   return myNumber * 2; //=> [2, 4, 6, 8, 10]
 });
 ```
-
-
