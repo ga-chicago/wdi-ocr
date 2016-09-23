@@ -3,6 +3,7 @@
 #### Videos
 - 1.2 Command Line Review: https://vimeo.com/183503186
 - 1.5 Chrome Dev Tools: https://vimeo.com/184012234
+- Build a column layout with floats (from 2nd cohort): https://www.youtube.com/watch?v=luy0p-auBR4
 - Intro to Javascript Series (from 4th Cohort): https://vimeo.com/album/3810578
 
 #### Resources from Instructors
