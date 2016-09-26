@@ -17,8 +17,8 @@ Check out some examples:
 
 ### Previewing Markdown in Atom
 
-1. In the Atom sidebar ctrl-click (or right-click) on ```README.md``` and select ```Markdown Preview``` ![](MarkdownPreview.png)
-2. You should see on the right hand side of Atom the rendered markdown ![](MarkdownPreview2.png)
+1. In the Atom sidebar ctrl-click (or right-click) on ```README.md``` and select ```Markdown Preview```
+2. You should see on the right hand side of Atom the rendered markdown 
 
 ### Pushing/Viewing on Github
 
