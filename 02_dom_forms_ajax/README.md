@@ -22,6 +22,7 @@ This week you should spend your time reading the following selections. Read the 
 
 #### Tuesday
 
+- Intro to Outcomes (Tuesday, 9/27 10:30am DSI & WDI)
 -
 
 #### Wednesday
