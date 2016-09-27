@@ -1,12 +1,14 @@
 
 
----
+## Week 1 Weekend Practice - REPS!
 
-# Week 1 Weekend Practice - REPS!
+- Create a new Git repository on Github called `js-reps`
+- Clone it down
+- Create the files needed for this - you may work directly in the browser console or add your own html/css files.
+- Due by Sunday @ midnight CST
+- Push to Github when done (no pull request needed)
 
----
-
-## Round 1
+#### Round 1
 
 Write a function `lengths` that accepts a single parameter as an argument, namely an array of strings. The function should return an array of numbers. Each number in the array should be the length of the corresponding string. To get you started, you'll need to **loop** through each *string* in the array and get the length of each one. Those lengths should be stored in a different array that you will return.
 
@@ -34,9 +36,9 @@ var words = ["hello", "what", "is", "up", "dude"]
 lengths(words)  # => [5, 4, 2, 2, 4]
 ```
 
----
 
-## Round 2
+
+#### Round 2
 
 Write a Javascript function called `transmogrifier`
 This function should accept three arguments, which you can assume will be numbers.
@@ -57,8 +59,9 @@ transmogrifier(13, 12, 5)
 transmogrifier(42, 13, 7)
 
 ```
----
-## Round 3
+
+
+#### Round 3
 
 Write a function called `toonify` that takes two parameters, `accent` and `sentence`.
 - If `accent` is the string `"daffy"`, return a modified version of `sentence` with all "s" replaced with "th".
@@ -74,8 +77,8 @@ toonify("daffy", "so you smell like sausage")
 #=> "tho you thmell like thauthage"
 
 ```
----
-## Round 4
+
+#### Round 4
 
 Write a function `wordReverse` that accepts a single argument, a string. The method should return a string with the order of the words reversed. Don't worry
 about punctuation. You'll need to use `String.split()` to create an array of words (splitting them with a space or " ". Then you'll need to reverse the order of that array using `array.reverse()`. Finally, you'll loop through them to create a new string).
@@ -88,8 +91,8 @@ about punctuation. You'll need to use `String.split()` to create an array of wor
 wordReverse("Now I know what a TV dinner feels like")
 # => "like feels dinner TV a what know I Now"
 ```
----
-## Round 5
+
+#### Round 5
 
 Write a function `letterReverse` that accepts a single argument, a string. The function should maintain the order of words in the string but reverse the letters in each word. Don't worry about punctuation. This will be very similar to round 4 except you won't need to split them with a space.
 
@@ -103,8 +106,8 @@ letterReverse("Now I know what a TV dinner feels like")
 letterReverse("Put Hans back on the line")
 # => "tuP snaH kcab no eht enil"
 ```
----
-## Round 6
+
+#### Round 6
 
 Write a function `longest` that accepts a single argument, an array of strings. The method should return the longest word in the array. In case of a tie, the method should return the word that appears first in the array.
 
@@ -115,8 +118,9 @@ longest(["oh", "good", "grief"]) # => "grief"
 longest(["Nothing" , "takes", "the", "taste", "out", "of", "peanut", "butter", "quite", "like", "unrequited", "love"])
 # => "unrequited"
 ```
----
-## Final Round
+
+
+#### Final Round
 
 Write a function, called `repMaster`, that accepts two arguments, input and a function. Input should be able to be used with the function.  The function used as an argument must return a string.  `repMaster` should take the result of the string, passed as an argument to the argument function, and return this result with `' proves that I am the rep MASTER!'` concatenated to it.  
 
@@ -146,9 +150,3 @@ function doSomethingWithFunctions(yourFunction) {
 
 doSomethingWithFunctions(logSomething);
 ```
-
----
-
-####Submitting this Assignment
-- To submit this assignment create a pull request when you have completed
-this assignment.
