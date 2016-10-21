@@ -99,6 +99,7 @@
     * [Node Server Examples](05_node/d02_node_examples.md)
     * [Modules for Newbies](05_node/d02_modules.md)
     * [Homework: Requesting with Node](05_node/d02_hw.md)
+    * [Weekend: Homework](05_node/weekendHomeworkExpress.md)
 * [6. Testing & MVC]()
 * [7. Security & Encryption]()
 * [8. Ruby & Sinatra]()
