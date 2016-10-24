@@ -101,6 +101,7 @@
     * [Homework: Requesting with Node](05_node/d02_hw.md)
     * [Weekend: Homework](05_node/weeekendHomeworkExpress.md)
 * [6. Testing & MVC]()
+    * [Databases](05_node/database.md)
 * [7. Security & Encryption]()
 * [8. Ruby & Sinatra]()
 * [9. NoSQL & API Design]()
