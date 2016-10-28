@@ -132,6 +132,8 @@
     * [Account Models & BCrypt](05_node/d06_account_model.md)
     * [Tux: Console for Sinatra](05_node/d06_tux.md)
     * [Account Controller](05_node/d06_accountcontroller.md)
+    * [Weekend: Homework](05_node/weeekendHomeworkExpress.md)
+    * [Databases](05_node/database.md)
 * [6. Testing & MVC]()
 * [7. Security & Encryption]()
 * [8. Ruby & Sinatra]()
@@ -140,3 +142,22 @@
 * [11. SPAs with React]()
 * [12. Comp Sci Fundamentals]()
 * [13. Post Cohort]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
